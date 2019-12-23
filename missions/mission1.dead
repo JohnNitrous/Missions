@@ -1,0 +1,9 @@
+//mission #1
+get OBJECT1,OBJECT2,OBJECT3,OBJECT4
+arrive AREA1
+arrive AREA2
+activate TOOL1
+activate TOOL2
+activate TOOL3
+activate TOOL4
+end mission2

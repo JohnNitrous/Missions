@@ -1,0 +1,16 @@
+//mission #2
+arrive AREA3
+get OBJECT5,OBJECT6,OBJECT7,OBJECT8
+arrive AREA4
+activate TOOL5
+activate TOOL6
+activate TOOL7
+activate TOOL8
+arrive AREA5
+get OBJECT9,OBJECT10,OBJECT11,OBJECT12
+arrive AREA6
+activate TOOL9
+activate TOOL10
+activate TOOL11
+activate TOOL12
+end mission3
